@@ -87,7 +87,7 @@
 </a>
 </div>
 <br>
-##⚡⚡ Recent Contributions
+⚡⚡ Recent Contributions
 <hr>
 
 ![snake gif](https://github.com/dikapitacion/dikapitacion/blob/output/github-contribution-grid-snake.gif)
