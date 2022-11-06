@@ -86,3 +86,8 @@
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=dikapitacion&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Divij's GitHub Contributions Graph"/>
 </a>
 </div>
+<br>
+##⚡⚡ Recent Contributions
+<hr>
+
+![snake gif](https://github.com/dikapitacion/dikapitacion/blob/output/github-contribution-grid-snake.gif)
