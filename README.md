@@ -2,7 +2,10 @@
 ## Hey there ... I am Divij Kathuria 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/dikapitacion?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/dikapitacion?style=social)
-
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
 - 🔭 I'm currently a student studying at Vellore Institute of Technology,Vellore.
 - 🧓 I'm a beginner web developer who knows HTML,CSS and JavaScript. 
 - 🌱 I'm currently learning React and also practicing DSA on leetcode. 
@@ -17,18 +20,31 @@
       alt="java"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-      alt="go-lang"/> 
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+      alt="C++"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-      alt="PHP"/> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+      alt="JavaScript"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="python"/>
   </a>
-  
+<h3 align="center">Frameworks</h3>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+      alt="JQuery"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="Bootstrap"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      alt="Tailwind"/> 
+  </a>
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
   <div>
