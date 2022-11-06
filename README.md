@@ -6,7 +6,9 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
+
 - 🔭 I'm currently a student studying at Vellore Institute of Technology,Vellore.
+
 - 🧓 I'm a beginner web developer who knows HTML,CSS and JavaScript. 
 - 🌱 I'm currently learning React and also practicing DSA on leetcode. 
 - 💬 Ask me about C/C++,Python,Java. 
