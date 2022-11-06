@@ -55,11 +55,11 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 <a href="https://github.com/dikapitacion/dikapitacion">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox&hide_border=true)](https://github.com/dikapitacion" alt="Divij's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dikapitacion&theme=gruvbox&hide_border=true)](https://github.com/dikapitacion" alt="Divij's GitHub Stats Graph"/>
 </a>
 <br><br>
 <a href="https://github.com/dikapitacion/dikapitacion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dikapitacion&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Divij%20V%27s%20Github%20Stats" alt="Divij's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dikapitacion&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Divij%20K%27s%20Github%20Stats" alt="Divij's GitHub Stats" />
 </a>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/dikapitacion/dikapitacion">
