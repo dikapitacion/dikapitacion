@@ -11,7 +11,7 @@
 
 - 🧓 I'm a beginner web developer who knows HTML,CSS and JavaScript. 
 - 🌱 I'm currently learning React and also practicing DSA on leetcode. 
-- 💬 Ask me about C/C++,Python,Java. 
+- 💬 Ask me about C/C++,Python,Java and Web Development. 
 - 📫 How to reach me: divijkathuria51714@gmail.com or on twitter @DivijKathuria12
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
