@@ -84,9 +84,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikapitacion&theme=gotham" alt="Divij's GitHub Streak Stats"/>
 </a>
 <br><br>
-<a href="https://github.com/dikapitacion/dikapitacion">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=dikapitacion&theme=gotham)](https://github.com/dikapitacion/github-readme-activity-graph)"/>
-</a>
 </div>
 <br>
 ⚡⚡ Recent Contributions
