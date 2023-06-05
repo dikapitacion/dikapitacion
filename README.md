@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently a student studying at Vellore Institute of Technology,Vellore.
 
-- 🧓 I'm a beginner web developer who knows HTML,CSS and JavaScript. 
+- 🧓 I'm a web developer who likes to code using React and Next.JS. 
 - 🌱 I'm currently learning React and also practicing DSA on leetcode. 
 - 💬 Ask me about C/C++,Python,Java and Web Development. 
 - 📫 How to reach me: divijkathuria51714@gmail.com or on twitter @DivijKathuria12
