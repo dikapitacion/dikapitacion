@@ -33,6 +33,11 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="python"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+      alt="SQL"/>
+  </a>
+	
 <h3 align="center">Frameworks</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -47,6 +52,34 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
       alt="Tailwind"/> 
   </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white"
+      alt="ReactJS"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/NextJS-323330?style=for-the-badge&logo=nextdotjs&logoColor=white"
+      alt="NextJS"/> 
+  </a>
+	
+</div>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="MongoDB"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ExpressJS-323330?style=for-the-badge&logo=express&logoColor=white"
+      alt="MongoDB"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/NodeJS-success?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="MongoDB"/>
+  </a>
+</p>
+
+<div align="center">
+	
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
   <div>
